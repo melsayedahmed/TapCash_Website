@@ -1,32 +1,3 @@
-/*
-
-Template: Appino - Responsive App Landing Page
-Author: iqonicthemes.in
-Version: 1.0
-
-*/
-
-/*----------------------------------------------
-Index Of Script
-------------------------------------------------
-
-1.Page Loader
-2.Back To Top
-3.Img Skrollr
-4.Accordion
-5.Magnific Popup
-6.Countdown
-7.widget
-8.counter
-9.Force a hover to see the effect
-10.Wow Animation
-11.Owl Carousel
-12.Nav bar active
-
-------------------------------------------------
-Index Of Script
-----------------------------------------------*/
-
 $(document).ready(function() {
 
     /*------------------------

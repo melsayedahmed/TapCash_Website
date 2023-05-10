@@ -1,7 +1,3 @@
-/*! * jQuery Cookie Plugin v1.4.1
- * https://github.com/carhartl/jquery-cookie
- */
-
 ! function(a) {
     "function" == typeof define && define.amd ? define(["jquery"], a) : "object" == typeof exports ? a(require("jquery")) : a(jQuery)
 }(function(a) {
